@@ -1,4 +1,3 @@
-Om Sai Ram
 Global setup:
  Set up git
   git config --global user.name "Prasad"
